@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+h1,
+h3 {
+    background-color: rgb(231, 202, 158);
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+body,
+footer {
+    text-align: center;
+    width: 100%;
+}
+
+img {
+    justify-content: content;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 2px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h2 {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 2px;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+
+h6 {
+    background: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
